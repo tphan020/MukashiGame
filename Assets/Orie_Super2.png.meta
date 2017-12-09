@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 2cc933839dc712a4fa84615a34e8b4ca
+timeCreated: 1510388105
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Orie_Super2_0
+    21300002: Orie_Super2_1
+    21300004: Orie_Super2_2
+    21300006: Orie_Super2_3
+    21300008: Orie_Super2_4
+    21300010: Orie_Super2_5
+    21300012: Orie_Super2_6
+    21300014: Orie_Super2_7
+    21300016: Orie_Super2_8
+    21300018: Orie_Super2_9
+    21300020: Orie_Super2_10
+    21300022: Orie_Super2_11
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orie_Super2_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2780
+        width: 1370
+        height: 1307
+      alignment: 9
+      pivot: {x: 0.5860586, y: -0.00000018679467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Super2_1
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 2814
+        width: 1040
+        height: 1243
+      alignment: 9
+      pivot: {x: 0.31062305, y: -0.05251891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Super2_2
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 1602
+        width: 1139
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.792602, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Super2_3
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2901
+        width: 1108
+        height: 1066
+      alignment: 9
+      pivot: {x: 0.2850549, y: -0.014140232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Super2_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1514
+        width: 844
+        height: 1247
+      alignment: 9
+      pivot: {x: 0.5014246, y: 0.026999174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Super2_5
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1618
+        width: 1153
+        height: 1153
+      alignment: 9
+      pivot: {x: 0.76829284, y: -0.0011873535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Super2_6
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 290
+        width: 1211
+        height: 1236
+      alignment: 9
+      pivot: {x: 0.45677924, y: -0.007880028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Super2_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 584
+        width: 1372
+        height: 849
+      alignment: 9
+      pivot: {x: 0.19527324, y: -0.009459371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Super2_9
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 467
+        width: 1337
+        height: 1099
+      alignment: 9
+      pivot: {x: 0.25461695, y: 0.03166103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

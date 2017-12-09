@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 2291b47b2d2ac9d42b3ecdcc581723e4
+timeCreated: 1510265037
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Orie_Attack1_0
+    21300002: Orie_Attack1_1
+    21300004: Orie_Attack1_2
+    21300006: Orie_Attack1_3
+    21300008: Orie_Attack1_4
+    21300010: Orie_Attack1_5
+    21300012: Orie_Attack1_6
+    21300014: Orie_Attack1_7
+    21300016: Orie_Attack1_8
+    21300018: Orie_Attack1_9
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orie_Attack1_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2873
+        width: 794
+        height: 964
+      alignment: 9
+      pivot: {x: 0.37449315, y: 0.003665655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Attack1_1
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 2874
+        width: 756
+        height: 931
+      alignment: 9
+      pivot: {x: 0.39961427, y: 0.002038089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Attack1_2
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 2854
+        width: 771
+        height: 951
+      alignment: 9
+      pivot: {x: 0.34711602, y: 0.004322393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Attack1_3
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 2854
+        width: 776
+        height: 1188
+      alignment: 9
+      pivot: {x: 0.2965887, y: 0.006911769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Attack1_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1494
+        width: 1513
+        height: 1164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Attack1_5
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1494
+        width: 1468
+        height: 1142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Attack1_6
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 2501
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Attack1_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 352
+        width: 1288
+        height: 862
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Attack1_8
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 355
+        width: 1290
+        height: 842
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_Attack1_9
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 379
+        width: 1202
+        height: 795
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

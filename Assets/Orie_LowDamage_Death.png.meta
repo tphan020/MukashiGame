@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 72e226966fa72594788a7730f5566a41
+timeCreated: 1510377563
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Orie_LowDamage_Death_0
+    21300002: Orie_LowDamage_Death_1
+    21300004: Orie_LowDamage_Death_2
+    21300006: Orie_LowDamage_Death_3
+    21300008: Orie_LowDamage_Death_4
+    21300010: Orie_LowDamage_Death_5
+    21300012: Orie_LowDamage_Death_6
+    21300014: Orie_LowDamage_Death_7
+    21300016: Orie_LowDamage_Death_8
+    21300018: Orie_LowDamage_Death_9
+    21300020: Orie_LowDamage_Death_10
+    21300022: Orie_LowDamage_Death_11
+    21300024: Orie_LowDamage_Death_12
+    21300026: Orie_LowDamage_Death_13
+    21300028: Orie_LowDamage_Death_14
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orie_LowDamage_Death_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1889
+        width: 744
+        height: 1050
+      alignment: 9
+      pivot: {x: 0.4896003, y: 0.0042213076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_LowDamage_Death_1
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1892
+        width: 741
+        height: 1047
+      alignment: 9
+      pivot: {x: 0.4915452, y: 0.000894133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_LowDamage_Death_2
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1889
+        width: 744
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.49526566, y: 0.0036777027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_LowDamage_Death_3
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1886
+        width: 743
+        height: 1045
+      alignment: 9
+      pivot: {x: 0.49509123, y: 0.0010468843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_LowDamage_Death_4
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 1886
+        width: 746
+        height: 1045
+      alignment: 9
+      pivot: {x: 0.49204448, y: 0.00096079265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_LowDamage_Death_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 849
+        width: 696
+        height: 1005
+      alignment: 9
+      pivot: {x: 0.5517947, y: 0.000000121463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_LowDamage_Death_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 852
+        width: 1104
+        height: 834
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_LowDamage_Death_8
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 864
+        width: 1136
+        height: 633
+      alignment: 9
+      pivot: {x: 0.45720145, y: 0.0012695891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_LowDamage_Death_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 426
+        width: 1193
+        height: 390
+      alignment: 9
+      pivot: {x: 0.35382608, y: 0.028325321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_LowDamage_Death_12
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 426
+        width: 1134
+        height: 263
+      alignment: 9
+      pivot: {x: 0.27166373, y: 0.051342633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_LowDamage_Death_13
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 425
+        width: 1133
+        height: 263
+      alignment: 9
+      pivot: {x: 0.27146542, y: 0.055974692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orie_LowDamage_Death_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 47
+        width: 1133
+        height: 260
+      alignment: 9
+      pivot: {x: 0.2716259, y: 0.050625272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

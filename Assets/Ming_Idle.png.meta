@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: c4b80516f7f8c9d49a456337fe8822b7
+timeCreated: 1510395944
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ming_Idle_0
+    21300002: Ming_Idle_1
+    21300004: Ming_Idle_2
+    21300006: Ming_Idle_3
+    21300008: Ming_Idle_4
+    21300010: Ming_Idle_5
+    21300012: Ming_Idle_6
+    21300014: Ming_Idle_7
+    21300016: Ming_Idle_8
+    21300018: Ming_Idle_9
+    21300020: Ming_Idle_10
+    21300022: Ming_Idle_11
+    21300024: Ming_Idle_12
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ming_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1055
+        width: 521
+        height: 882
+      alignment: 9
+      pivot: {x: 0.77280104, y: -0.00017590859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ming_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1055
+        width: 521
+        height: 882
+      alignment: 9
+      pivot: {x: 0.76867396, y: -0.00031901596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ming_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1055
+        width: 521
+        height: 882
+      alignment: 9
+      pivot: {x: 0.76873976, y: -0.0002665617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ming_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1055
+        width: 526
+        height: 884
+      alignment: 9
+      pivot: {x: 0.76036716, y: -0.0002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ming_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1053
+        width: 562
+        height: 886
+      alignment: 9
+      pivot: {x: 0.71204567, y: -0.0023737578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ming_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 1048
+        width: 579
+        height: 889
+      alignment: 9
+      pivot: {x: 0.6884129, y: 0.0005589969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ming_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 1047
+        width: 572
+        height: 890
+      alignment: 9
+      pivot: {x: 0.7002581, y: -0.000021808068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ming_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 107
+        width: 536
+        height: 892
+      alignment: 9
+      pivot: {x: 0.7463605, y: 0.00000023948772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ming_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 103
+        width: 523
+        height: 897
+      alignment: 9
+      pivot: {x: 0.7641637, y: 0.0028980898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ming_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 104
+        width: 518
+        height: 895
+      alignment: 9
+      pivot: {x: 0.77271354, y: 0.0007900217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ming_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 109
+        width: 519
+        height: 890
+      alignment: 9
+      pivot: {x: 0.77246046, y: 0.00029984378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ming_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 111
+        width: 519
+        height: 888
+      alignment: 9
+      pivot: {x: 0.77230805, y: 0.0023734032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ming_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 89
+        width: 302
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
