@@ -33,3 +33,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Stupid Mac things
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
